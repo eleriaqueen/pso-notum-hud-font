@@ -4,7 +4,7 @@
 Fan-made High Resolution HUD Font Mod for Phantasy Star Online Ep. I&II (& Plus).
 Notum is based on the Dotum font.
 
-This repo only provides font-related textures though it meshes well with both my "faithful" UI and my (unreleased) Clean UI
+This repo only provides font-related textures though it meshes well with my "faithful" HD UI Mod.
 
 _Compatible with Dolphin emulator only_
 
@@ -16,6 +16,7 @@ _Compatible with Dolphin emulator only_
 ![GPOE8P_2024-01-24_22-21-19](https://github.com/eleriaqueen/pso-notum-hud-font/assets/4411178/06799766-87bc-4ddd-9116-db628e789f25)
 ![GPOE8P_2024-01-24_22-18-38](https://github.com/eleriaqueen/pso-notum-hud-font/assets/4411178/2b7e51c7-4e0d-4043-a0b6-bcea02284e80)
 </details>
+Note: The UI mod/skin used in these screenshots (aside from the font) is still being worked on, I haven't released it (yet).
 
 # Download
 
